@@ -1,3 +1,4 @@
+# This project is still WIP, a full guide will be out when im finished with it
 # 3-Axis AI Tracking Gimbal
 
 A high-performance active stabilizing gimbal using **Computer Vision (YOLOv8)** on a **Raspberry Pi 5** for object tracking, and an **ESP32** for real-time motor control and IMU stabilization.
